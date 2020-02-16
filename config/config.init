@@ -1,0 +1,11 @@
+[server]
+SMTP_SERVER = imap.gmail.com
+SMTP_PORT   = 993
+
+[proceso_sm]
+
+
+[proceso_sm_rcv]
+
+
+[proceso_snd_sm]
