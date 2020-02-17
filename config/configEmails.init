@@ -1,4 +1,5 @@
 [server]
+LOG = email_$fecha.log
 SMTP_SERVER = imap.gmail.com
 SMTP_PORT   = 993
 
